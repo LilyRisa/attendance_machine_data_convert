@@ -1,0 +1,17 @@
+{
+    "name": "minhm/chamcong",
+    "autoload": {
+        "psr-4": {
+            "Minhm\\Chamcong\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "lilyrisa",
+            "email": "bvminh101299@gmail.com"
+        }
+    ],
+    "require": {
+        "phpoffice/phpspreadsheet": "^1.29"
+    }
+}
